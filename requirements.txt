@@ -1,0 +1,7 @@
+pandas
+langdetect
+scikit-learn
+torch
+transformers
+tqdm
+matplotlib
